@@ -1,0 +1,3 @@
+Nombre: Juan
+Teléfono: 558452581
+Categoría: Discipulo
